@@ -1,0 +1,13 @@
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\obj\Debug\netcoreapp3.1\balance_chips.csproj.AssemblyReference.cache
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\obj\Debug\netcoreapp3.1\balance_chips.AssemblyInfoInputs.cache
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\obj\Debug\netcoreapp3.1\balance_chips.AssemblyInfo.cs
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\obj\Debug\netcoreapp3.1\balance_chips.csproj.CoreCompileInputs.cache
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\bin\Debug\netcoreapp3.1\balance_chips.exe
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\bin\Debug\netcoreapp3.1\balance_chips.deps.json
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\bin\Debug\netcoreapp3.1\balance_chips.runtimeconfig.json
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\bin\Debug\netcoreapp3.1\balance_chips.runtimeconfig.dev.json
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\bin\Debug\netcoreapp3.1\balance_chips.dll
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\bin\Debug\netcoreapp3.1\balance_chips.pdb
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\obj\Debug\netcoreapp3.1\balance_chips.dll
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\obj\Debug\netcoreapp3.1\balance_chips.pdb
+D:\Other\Work\ELaboTech\balance_chips\balance_chips\obj\Debug\netcoreapp3.1\balance_chips.genruntimeconfig.cache
