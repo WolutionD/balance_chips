@@ -23,7 +23,6 @@ namespace RoundTable
                     sum = GetItemsSum(chips);
                 }
 
-                PrintAllItems(chips);
                 chips = Balance(chips, sum);
             }
         }
@@ -65,6 +64,7 @@ namespace RoundTable
                             myArray[rightNeighbour - 1] = myArray[rightNeighbour - 1] + 1;
                         }
                         step++;
+                        break;
                     }
                     if (myArray[leftNeighbour] > average)
                     {
@@ -77,6 +77,7 @@ namespace RoundTable
                             myArray[leftNeighbour + 1] = myArray[leftNeighbour + 1] + 1;
                         }
                         step++;
+                        break;
                     }
 
                     if (leftNeighbour - 1 == rightNeighbour)
@@ -87,7 +88,7 @@ namespace RoundTable
             }
 
             PrintAllItems(myArray);
-            Console.WriteLine("Moves it took: " + Convert.ToString(step));
+            Console.WriteLine("Moves it took: " + Convert.ToString(step) + "\n\n");
 
             return myArray;
         }
@@ -104,21 +105,6 @@ namespace RoundTable
                 }
             }
             return balance;
-        }
-
-        private static int FindLargestNumber(List<int> myArray)
-        {
-            int largest = 0;
-            int largestNumber = 0;
-            for (int counter = 0; counter < myArray.Count; counter++)
-            {
-                if (myArray[counter] > largest)
-                {
-                    largest = myArray[counter];
-                    largestNumber = counter;
-                }
-            }
-            return largestNumber;
         }
 
         private static int FindSmallerNumber(List<int> myArray)
